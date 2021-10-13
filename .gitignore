@@ -1,0 +1,8 @@
+# Python env
+env
+
+# Vagrant
+.vagrant
+
+# Vim workspace
+gitlab_jenkins_docker
